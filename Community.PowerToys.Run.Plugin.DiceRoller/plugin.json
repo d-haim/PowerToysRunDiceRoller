@@ -1,0 +1,15 @@
+{
+  "ID": "A6C12BABD1F4488882031CD16CCAE1BF",
+  "ActionKeyword": "rl",
+  "IsGlobal": false,
+  "Disabled": false,
+  "Name": "Dice Roller",
+  "Author": "d-haim",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/d-haim/PowerToysRunDiceRoller",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.DiceRoller.dll",
+  "IcoPathDark": "Images\\light-dice.png",
+  "IcoPathLight": "Images\\light-dice.png",
+  "DynamicLoading": false
+}

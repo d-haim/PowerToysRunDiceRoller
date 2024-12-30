@@ -1,1 +1,1 @@
-# PowerToysRun_Dice_Plugin
+# PowerToys Run Dice Roller Plugin
